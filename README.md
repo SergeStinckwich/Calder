@@ -4,7 +4,7 @@ Github is only used to sync the development en files, for doing CI (continuous i
 
 #How to install Calder ?
 
-* Download the last dev MOOSE 4.7 image: http://ci.moosetechnology.org/job/moose-latest-dev/
+* Download the last Pharo 1.4 image: http://gforge.inria.fr/frs/download.php/31258/Pharo-1.4-14557-OneClick.zip
 * Load last stable version of Calder:
 
 ```Smalltalk
