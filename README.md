@@ -9,9 +9,9 @@ Github is only used to sync the development en files, for doing CI (continuous i
 
 ```Smalltalk
 Gofer it
-url: 'http://smalltalkhub.com/mc/UMMISCO/Calder/main';
-package: 'ConfigurationOfCalder';
-load.
+      url: 'http://smalltalkhub.com/mc/UMMISCO/Calder/main';
+      package: 'ConfigurationOfCalder';
+      load.
 ((Smalltalk at: #ConfigurationOfCalder) project version: #'stable') load.
 ```
 
