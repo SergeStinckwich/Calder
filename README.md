@@ -1,5 +1,6 @@
-All the development happens on SmalltalkHub: XXX
-Github is only used to sync the development en files, for doing CI and store the issues list.
+All the development happens on SmalltalkHub: http://bit.ly/12Qvo8s
+
+Github is only used to sync the development en files, for doing CI (continuous integration) and store the issues list.
 
 #How to install Calder ?
 
