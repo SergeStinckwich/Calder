@@ -1,5 +1,8 @@
 All the development happens on SmalltalkHub: http://bit.ly/12Qvo8s
 
+Some videos are available here: https://www.youtube.com/watch?v=SE1vuCy8q44
+and here: https://www.youtube.com/watch?v=UCGH9M5crhA
+
 Github is only used to sync the development en files, for doing CI (continuous integration) and store the issues list.
 
 #How to install Calder ?
